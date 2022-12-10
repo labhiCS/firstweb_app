@@ -72,3 +72,11 @@ First web application using Django
 * setup a superuser
 
     `$ python3 manage.py createsuperuser`
+
+* To see running networkstatus.
+
+    `$ sudo netstat -lpn`
+
+* To kill the running tab(program).
+
+    `$ kill -9 <PID/Program name>`
