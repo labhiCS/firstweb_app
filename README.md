@@ -69,9 +69,13 @@ First web application using Django
 
     `$ python3 manage.py makemigrations <unique foldernames>`
 
-* setup a superuser
+* setup a superuser[for username, email, password(2times)]
 
     `$ python3 manage.py createsuperuser`
+
+* Examine that data programmatically through an interactive terminal session(shell).
+
+    `$ python3 manage.py shell`
 
 * To see running networkstatus.
 
