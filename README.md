@@ -80,3 +80,7 @@ First web application using Django
 * To kill the running tab(program).
 
     `$ kill -9 <PID/Program name>`
+
+* For example:
+    
+    `$ kill -9 7023`
