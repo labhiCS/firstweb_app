@@ -77,6 +77,12 @@ First web application using Django
 
     `$ python3 manage.py shell`
 
+    * Importing model topic <file_names>.
+
+    `$ >>> from <file_names>.models import Topic`
+    
+    `$ >>> Topic.objects.all()`
+    
 * To see running networkstatus.
 
     `$ sudo netstat -lpn`
